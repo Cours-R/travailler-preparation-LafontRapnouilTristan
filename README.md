@@ -1,6 +1,6 @@
 # Lafont Rapnouil Tristan
 
-![Logo EcoFoG](C:\Users\trist\Desktop\FotoDeLaGuyana\carnaval16.png)
+![Carnaval](C:\Users\trist\Desktop\FotoDeLaGuyana\carnaval16.png)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
