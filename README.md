@@ -1,6 +1,6 @@
 # Lafont Rapnouil Tristan
 
-![Carnaval](Images\carnaval16.png)
+![Carnaval](images\carnaval16.png)
 
 Ce dépôt destiné à la classe GitHub Cours-R contient des ressources pour les étudiants:
 
